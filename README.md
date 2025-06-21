@@ -14,8 +14,8 @@ A simple hockey stats app built in Swift and SwiftUI — created as a personal p
 ## Screenshots
 
 <!-- Add screenshots of your app here -->
-![image](https://github.com/user-attachments/assets/e07eeb1d-45bf-45a8-97ed-ef865ddf5ba1)
-![image](https://github.com/user-attachments/assets/85d3c89a-4922-49a4-9904-b50241c86972)
+<img src="https://github.com/user-attachments/assets/e07eeb1d-45bf-45a8-97ed-ef865ddf5ba1" width="300">
+<img src="https://github.com/user-attachments/assets/85d3c89a-4922-49a4-9904-b50241c86972" width="300">
 
 ## Getting Started
 
