@@ -1,0 +1,1466 @@
+{
+    "data": [
+        {
+            "player": {
+                "id": 8476453,
+                "currentTeamId": 14,
+                "firstName": "Nikita",
+                "fullName": "Nikita Kucherov",
+                "lastName": "Kucherov",
+                "positionCode": "R",
+                "sweaterNumber": 86
+            },
+            "points": 121,
+            "team": {
+                "id": 14,
+                "franchiseId": 31,
+                "fullName": "Tampa Bay Lightning",
+                "leagueId": 133,
+                "logos": [
+                    {
+                        "id": 11,
+                        "background": "alt",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TBL_alt.svg",
+                        "startSeason": 20112012,
+                        "teamId": 14,
+                        "url": "http://cdn.nhle.com/logos/nhl/svg/TBL_alt.svg"
+                    },
+                    {
+                        "id": 17,
+                        "background": "light",
+                        "endSeason": 20102011,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TBL_20072008-20102011_light.svg",
+                        "startSeason": 20072008,
+                        "teamId": 14,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/TBL_20072008-20102011_light.svg"
+                    },
+                    {
+                        "id": 151,
+                        "background": "dark",
+                        "endSeason": 20002001,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TBL_19921993-20002001_dark.svg",
+                        "startSeason": 19921993,
+                        "teamId": 14,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/TBL_19921993-20002001_dark.svg"
+                    },
+                    {
+                        "id": 156,
+                        "background": "dark",
+                        "endSeason": 20102011,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TBL_20072008-20102011_dark.svg",
+                        "startSeason": 20072008,
+                        "teamId": 14,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/TBL_20072008-20102011_dark.svg"
+                    },
+                    {
+                        "id": 158,
+                        "background": "dark",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TBL_dark.svg",
+                        "startSeason": 20112012,
+                        "teamId": 14,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/TBL_dark.svg"
+                    },
+                    {
+                        "id": 176,
+                        "background": "dark",
+                        "endSeason": 20062007,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TBL_20012002-20062007_dark.svg",
+                        "startSeason": 20012002,
+                        "teamId": 14,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/TBL_20012002-20062007_dark.svg"
+                    },
+                    {
+                        "id": 191,
+                        "background": "light",
+                        "endSeason": 20062007,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TBL_20012002-20062007_light.svg",
+                        "startSeason": 20012002,
+                        "teamId": 14,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/TBL_20012002-20062007_light.svg"
+                    },
+                    {
+                        "id": 196,
+                        "background": "light",
+                        "endSeason": 20002001,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TBL_19921993-20002001_light.svg",
+                        "startSeason": 19921993,
+                        "teamId": 14,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/TBL_19921993-20002001_light.svg"
+                    },
+                    {
+                        "id": 384,
+                        "background": "light",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
+                        "startSeason": 20112012,
+                        "teamId": 14,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/TBL_light.svg"
+                    }
+                ],
+                "rawTricode": "TBL",
+                "triCode": "TBL"
+            }
+        },
+        {
+            "player": {
+                "id": 8477492,
+                "currentTeamId": 21,
+                "firstName": "Nathan",
+                "fullName": "Nathan MacKinnon",
+                "lastName": "MacKinnon",
+                "positionCode": "C",
+                "sweaterNumber": 29
+            },
+            "points": 116,
+            "team": {
+                "id": 21,
+                "franchiseId": 27,
+                "fullName": "Colorado Avalanche",
+                "leagueId": 133,
+                "logos": [
+                    {
+                        "id": 148,
+                        "background": "dark",
+                        "endSeason": 19981999,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/COL_19951996-19981999_dark.svg",
+                        "startSeason": 19951996,
+                        "teamId": 21,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/COL_19951996-19981999_dark.svg"
+                    },
+                    {
+                        "id": 153,
+                        "background": "dark",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/COL_dark.svg",
+                        "startSeason": 19992000,
+                        "teamId": 21,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/COL_dark.svg"
+                    },
+                    {
+                        "id": 155,
+                        "background": "light",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
+                        "startSeason": 19992000,
+                        "teamId": 21,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/COL_light.svg"
+                    },
+                    {
+                        "id": 183,
+                        "background": "light",
+                        "endSeason": 19981999,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/COL_19951996-19981999_light.svg",
+                        "startSeason": 19951996,
+                        "teamId": 21,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/COL_19951996-19981999_light.svg"
+                    }
+                ],
+                "rawTricode": "COL",
+                "triCode": "COL"
+            }
+        },
+        {
+            "player": {
+                "id": 8477934,
+                "currentTeamId": 22,
+                "firstName": "Leon",
+                "fullName": "Leon Draisaitl",
+                "lastName": "Draisaitl",
+                "positionCode": "C",
+                "sweaterNumber": 29
+            },
+            "points": 106,
+            "team": {
+                "id": 22,
+                "franchiseId": 25,
+                "fullName": "Edmonton Oilers",
+                "leagueId": 133,
+                "logos": [
+                    {
+                        "id": 8,
+                        "background": "light",
+                        "endSeason": 20102011,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_19971998-20102011_light.svg",
+                        "startSeason": 19971998,
+                        "teamId": 22,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/EDM_19971998-20102011_light.svg"
+                    },
+                    {
+                        "id": 82,
+                        "background": "light",
+                        "endSeason": 19961997,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_19961997_light.svg",
+                        "startSeason": 19961997,
+                        "teamId": 22,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/EDM_19961997_light.svg"
+                    },
+                    {
+                        "id": 112,
+                        "background": "light",
+                        "endSeason": 19951996,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_19861987-19951996_light.svg",
+                        "startSeason": 19861987,
+                        "teamId": 22,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/EDM_19861987-19951996_light.svg"
+                    },
+                    {
+                        "id": 131,
+                        "background": "light",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
+                        "startSeason": 20222023,
+                        "teamId": 22,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/EDM_light.svg"
+                    },
+                    {
+                        "id": 140,
+                        "background": "light",
+                        "endSeason": 19851986,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_19791980-19851986_light.svg",
+                        "startSeason": 19791980,
+                        "teamId": 22,
+                        "url":
+                            "http://cdn.nhle.com/logos/nhl/svg/EDM_19791980-19851986_light.svg"
+                    },
+                    {
+                        "id": 147,
+                        "background": "dark",
+                        "endSeason": 19951996,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_19861987-19951996_dark.svg",
+                        "startSeason": 19861987,
+                        "teamId": 22,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/EDM_19861987-19951996_dark.svg"
+                    },
+                    {
+                        "id": 159,
+                        "background": "dark",
+                        "endSeason": 19961997,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_19961997_dark.svg",
+                        "startSeason": 19961997,
+                        "teamId": 22,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/EDM_19961997_dark.svg"
+                    },
+                    {
+                        "id": 241,
+                        "background": "dark",
+                        "endSeason": 20102011,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_19971998-20102011_dark.svg",
+                        "startSeason": 19971998,
+                        "teamId": 22,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/EDM_19971998-20102011_dark.svg"
+                    },
+                    {
+                        "id": 308,
+                        "background": "dark",
+                        "endSeason": 19851986,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_19791980-19851986_dark.svg",
+                        "startSeason": 19791980,
+                        "teamId": 22,
+                        "url":
+                            "http://cdn.nhle.com/logos/nhl/svg/EDM_19791980-19851986_dark.svg"
+                    },
+                    {
+                        "id": 364,
+                        "background": "dark",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_dark.svg",
+                        "startSeason": 20222023,
+                        "teamId": 22,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/EDM_dark.svg"
+                    },
+                    {
+                        "id": 417,
+                        "background": "dark",
+                        "endSeason": 20162017,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_20112012-20162017_dark.svg",
+                        "startSeason": 20112012,
+                        "teamId": 22,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/EDM_20112012-20162017_dark.svg"
+                    },
+                    {
+                        "id": 419,
+                        "background": "light",
+                        "endSeason": 20162017,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_20112012-20162017_light.svg",
+                        "startSeason": 20112012,
+                        "teamId": 22,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/EDM_20112012-20162017_light.svg"
+                    },
+                    {
+                        "id": 591,
+                        "background": "dark",
+                        "endSeason": 20212022,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_20172018-20212022_dark.svg",
+                        "startSeason": 20172018,
+                        "teamId": 22,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/EDM_20172018-20212022_dark.svg"
+                    },
+                    {
+                        "id": 592,
+                        "background": "light",
+                        "endSeason": 20212022,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_20172018-20212022_light.svg",
+                        "startSeason": 20172018,
+                        "teamId": 22,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/EDM_20172018-20212022_light.svg"
+                    }
+                ],
+                "rawTricode": "EDM",
+                "triCode": "EDM"
+            }
+        },
+        {
+            "player": {
+                "id": 8477956,
+                "currentTeamId": 6,
+                "firstName": "David",
+                "fullName": "David Pastrnak",
+                "lastName": "Pastrnak",
+                "positionCode": "R",
+                "sweaterNumber": 88
+            },
+            "points": 106,
+            "team": {
+                "id": 6,
+                "franchiseId": 6,
+                "fullName": "Boston Bruins",
+                "leagueId": 133,
+                "logos": [
+                    {
+                        "id": 2,
+                        "background": "dark",
+                        "endSeason": 19941995,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_19551956-19941995_dark.svg",
+                        "startSeason": 19551956,
+                        "teamId": 6,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/BOS_19551956-19941995_dark.svg"
+                    },
+                    {
+                        "id": 25,
+                        "background": "light",
+                        "endSeason": 19311932,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_19261927-19311932_light.svg",
+                        "startSeason": 19261927,
+                        "teamId": 6,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/BOS_19261927-19311932_light.svg"
+                    },
+                    {
+                        "id": 30,
+                        "background": "light",
+                        "endSeason": 19251926,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_19241925-19251926_light.svg",
+                        "startSeason": 19241925,
+                        "teamId": 6,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/BOS_19241925-19251926_light.svg"
+                    },
+                    {
+                        "id": 35,
+                        "background": "light",
+                        "endSeason": 19391940,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_19341935-19391940_light.svg",
+                        "startSeason": 19341935,
+                        "teamId": 6,
+                        "url":
+                            "http://2.cdn.nhle.com/logos/nhl/svg/BOS_19341935-19391940_light.svg"
+                    },
+                    {
+                        "id": 38,
+                        "background": "dark",
+                        "endSeason": 19331934,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_19321933-19331934_dark.svg",
+                        "startSeason": 19321933,
+                        "teamId": 6,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/BOS_19321933-19331934_dark.svg"
+                    },
+                    {
+                        "id": 43,
+                        "background": "dark",
+                        "endSeason": 19311932,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_19261927-19311932_dark.svg",
+                        "startSeason": 19261927,
+                        "teamId": 6,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/BOS_19261927-19311932_dark.svg"
+                    },
+                    {
+                        "id": 45,
+                        "background": "dark",
+                        "endSeason": 20062007,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_19951996-20062007_dark.svg",
+                        "startSeason": 19951996,
+                        "teamId": 6,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/BOS_19951996-20062007_dark.svg"
+                    },
+                    {
+                        "id": 58,
+                        "background": "dark",
+                        "endSeason": 19251926,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_19241925-19251926_dark.svg",
+                        "startSeason": 19241925,
+                        "teamId": 6,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/BOS_19241925-19251926_dark.svg"
+                    },
+                    {
+                        "id": 68,
+                        "background": "dark",
+                        "endSeason": 20072008,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_20072008_dark.svg",
+                        "startSeason": 20072008,
+                        "teamId": 6,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/BOS_20072008_dark.svg"
+                    },
+                    {
+                        "id": 117,
+                        "background": "light",
+                        "endSeason": 19481949,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_19481949_light.svg",
+                        "startSeason": 19481949,
+                        "teamId": 6,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/BOS_19481949_light.svg"
+                    },
+                    {
+                        "id": 144,
+                        "background": "light",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
+                        "startSeason": 20242025,
+                        "teamId": 6,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/BOS_light.svg"
+                    },
+                    {
+                        "id": 152,
+                        "background": "dark",
+                        "endSeason": 19541955,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_19481949-19541955_dark.svg",
+                        "startSeason": 19481949,
+                        "teamId": 6,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/BOS_19481949-19541955_dark.svg"
+                    },
+                    {
+                        "id": 184,
+                        "background": "light",
+                        "endSeason": 19941995,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_19491950-19941995_light.svg",
+                        "startSeason": 19491950,
+                        "teamId": 6,
+                        "url":
+                            "http://2.cdn.nhle.com/logos/nhl/svg/BOS_19491950-19941995_light.svg"
+                    },
+                    {
+                        "id": 289,
+                        "background": "dark",
+                        "endSeason": 19471948,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_19341935-19471948_dark.svg",
+                        "startSeason": 19341935,
+                        "teamId": 6,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/BOS_19341935-19471948_dark.svg"
+                    },
+                    {
+                        "id": 344,
+                        "background": "light",
+                        "endSeason": 19331934,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_19321933-19331934_light.svg",
+                        "startSeason": 19321933,
+                        "teamId": 6,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/BOS_19321933-19331934_light.svg"
+                    },
+                    {
+                        "id": 352,
+                        "background": "light",
+                        "endSeason": 19471948,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_19401941-19471948_light.svg",
+                        "startSeason": 19401941,
+                        "teamId": 6,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/BOS_19401941-19471948_light.svg"
+                    },
+                    {
+                        "id": 366,
+                        "background": "dark",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_dark.svg",
+                        "startSeason": 20242025,
+                        "teamId": 6,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/BOS_dark.svg"
+                    },
+                    {
+                        "id": 373,
+                        "background": "alt",
+                        "endSeason": 19661967,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_19551956-19661967_alt.svg",
+                        "startSeason": 19551956,
+                        "teamId": 6,
+                        "url":
+                            "http://2.cdn.nhle.com/logos/nhl/svg/BOS_19551956-19661967_alt.svg"
+                    },
+                    {
+                        "id": 378,
+                        "background": "light",
+                        "endSeason": 20072008,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_20072008_light.svg",
+                        "startSeason": 20072008,
+                        "teamId": 6,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/BOS_20072008_light.svg"
+                    },
+                    {
+                        "id": 399,
+                        "background": "light",
+                        "endSeason": 20062007,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_19951996-20062007_light.svg",
+                        "startSeason": 19951996,
+                        "teamId": 6,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/BOS_19951996-20062007_light.svg"
+                    },
+                    {
+                        "id": 440,
+                        "background": "alt",
+                        "endSeason": 20222023,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_alt.svg",
+                        "startSeason": 20082009,
+                        "teamId": 6,
+                        "url": "http://cdn.nhle.com/logos/nhl/svg/BOS_alt.svg"
+                    },
+                    {
+                        "id": 615,
+                        "background": "dark",
+                        "endSeason": 20222023,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_20092010-20222023_dark.svg",
+                        "startSeason": 20092010,
+                        "teamId": 6,
+                        "url":
+                            "http://cdn.nhle.com/logos/nhl/svg/BOS_20092010-20222023_dark.svg"
+                    },
+                    {
+                        "id": 617,
+                        "background": "light",
+                        "endSeason": 20222023,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_20092010-20222023_light.svg",
+                        "startSeason": 20092010,
+                        "teamId": 6,
+                        "url":
+                            "http://cdn.nhle.com/logos/nhl/svg/BOS_20092010-20222023_light.svg"
+                    },
+                    {
+                        "id": 620,
+                        "background": "dark",
+                        "endSeason": 20222023,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_20082009-20222023_dark.svg",
+                        "startSeason": 20082009,
+                        "teamId": 6,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/BOS_20082009-20222023_dark.svg"
+                    },
+                    {
+                        "id": 621,
+                        "background": "light",
+                        "endSeason": 20222023,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_20082009-20222023_light.svg",
+                        "startSeason": 20082009,
+                        "teamId": 6,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/BOS_20082009-20222023_light.svg"
+                    },
+                    {
+                        "id": 644,
+                        "background": "light",
+                        "endSeason": 20232024,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_20232024_light.svg",
+                        "startSeason": 20232024,
+                        "teamId": 6,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/BOS_20232024_light.svg"
+                    },
+                    {
+                        "id": 645,
+                        "background": "dark",
+                        "endSeason": 20232024,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/BOS_20232024_dark.svg",
+                        "startSeason": 20232024,
+                        "teamId": 6,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/BOS_20232024_dark.svg"
+                    }
+                ],
+                "rawTricode": "BOS",
+                "triCode": "BOS"
+            }
+        },
+        {
+            "player": {
+                "id": 8478483,
+                "currentTeamId": 10,
+                "firstName": "Mitch",
+                "fullName": "Mitch Marner",
+                "lastName": "Marner",
+                "positionCode": "R",
+                "sweaterNumber": 16
+            },
+            "points": 102,
+            "team": {
+                "id": 10,
+                "franchiseId": 5,
+                "fullName": "Toronto Maple Leafs",
+                "leagueId": 133,
+                "logos": [
+                    {
+                        "id": 24,
+                        "background": "dark",
+                        "endSeason": 19261927,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19261927_dark.svg",
+                        "startSeason": 19261927,
+                        "teamId": 10,
+                        "url":
+                            "http://cdn.nhle.com/logos/nhl/svg/TOR_19261927_dark.svg"
+                    },
+                    {
+                        "id": 57,
+                        "background": "light",
+                        "endSeason": 19261927,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19261927_light.svg",
+                        "startSeason": 19261927,
+                        "teamId": 10,
+                        "url":
+                            "http://cdn.nhle.com/logos/nhl/svg/TOR_19261927_light.svg"
+                    },
+                    {
+                        "id": 69,
+                        "background": "dark",
+                        "endSeason": 19811982,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19701971-19811982_dark.svg",
+                        "startSeason": 19701971,
+                        "teamId": 10,
+                        "url":
+                            "http://cdn.nhle.com/logos/nhl/svg/TOR_19701971-19811982_dark.svg"
+                    },
+                    {
+                        "id": 89,
+                        "background": "light",
+                        "endSeason": 19661967,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19631964-19661967_light.svg",
+                        "startSeason": 19631964,
+                        "teamId": 10,
+                        "url":
+                            "http://2.cdn.nhle.com/logos/nhl/svg/TOR_19631964-19661967_light.svg"
+                    },
+                    {
+                        "id": 101,
+                        "background": "light",
+                        "endSeason": 19371938,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19271928-19371938_light.svg",
+                        "startSeason": 19271928,
+                        "teamId": 10,
+                        "url":
+                            "http://2.cdn.nhle.com/logos/nhl/svg/TOR_19271928-19371938_light.svg"
+                    },
+                    {
+                        "id": 118,
+                        "background": "dark",
+                        "endSeason": 19621963,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19381939-19621963_dark.svg",
+                        "startSeason": 19381939,
+                        "teamId": 10,
+                        "url":
+                            "http://2.cdn.nhle.com/logos/nhl/svg/TOR_19381939-19621963_dark.svg"
+                    },
+                    {
+                        "id": 120,
+                        "background": "dark",
+                        "endSeason": 19371938,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19271928-19371938_dark.svg",
+                        "startSeason": 19271928,
+                        "teamId": 10,
+                        "url":
+                            "http://2.cdn.nhle.com/logos/nhl/svg/TOR_19271928-19371938_dark.svg"
+                    },
+                    {
+                        "id": 125,
+                        "background": "light",
+                        "endSeason": 19811982,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19701971-19811982_light.svg",
+                        "startSeason": 19701971,
+                        "teamId": 10,
+                        "url":
+                            "http://cdn.nhle.com/logos/nhl/svg/TOR_19701971-19811982_light.svg"
+                    },
+                    {
+                        "id": 134,
+                        "background": "light",
+                        "endSeason": 19691970,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19671968-19691970_light.svg",
+                        "startSeason": 19671968,
+                        "teamId": 10,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/TOR_19671968-19691970_light.svg"
+                    },
+                    {
+                        "id": 181,
+                        "background": "light",
+                        "endSeason": 19861987,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19821983-19861987_light.svg",
+                        "startSeason": 19821983,
+                        "teamId": 10,
+                        "url":
+                            "http://cdn.nhle.com/logos/nhl/svg/TOR_19821983-19861987_light.svg"
+                    },
+                    {
+                        "id": 192,
+                        "background": "dark",
+                        "endSeason": 19661967,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19631964-19661967_dark.svg",
+                        "startSeason": 19631964,
+                        "teamId": 10,
+                        "url":
+                            "http://2.cdn.nhle.com/logos/nhl/svg/TOR_19631964-19661967_dark.svg"
+                    },
+                    {
+                        "id": 199,
+                        "background": "dark",
+                        "endSeason": 19861987,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19821983-19861987_dark.svg",
+                        "startSeason": 19821983,
+                        "teamId": 10,
+                        "url":
+                            "http://cdn.nhle.com/logos/nhl/svg/TOR_19821983-19861987_dark.svg"
+                    },
+                    {
+                        "id": 223,
+                        "background": "alt",
+                        "endSeason": 20152016,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19871988-20152016_alt.svg",
+                        "startSeason": 19871988,
+                        "teamId": 10,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/TOR_19871988-20152016_alt.svg"
+                    },
+                    {
+                        "id": 255,
+                        "background": "light",
+                        "endSeason": 20152016,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19871988-20152016_light.svg",
+                        "startSeason": 19871988,
+                        "teamId": 10,
+                        "url":
+                            "http://2.cdn.nhle.com/logos/nhl/svg/TOR_19871988-20152016_light.svg"
+                    },
+                    {
+                        "id": 275,
+                        "background": "light",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg",
+                        "startSeason": 20162017,
+                        "teamId": 10,
+                        "url":
+                            "http://2.cdn.nhle.com/logos/nhl/svg/TOR_light.svg"
+                    },
+                    {
+                        "id": 332,
+                        "background": "dark",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_dark.svg",
+                        "startSeason": 20162017,
+                        "teamId": 10,
+                        "url":
+                            "http://2.cdn.nhle.com/logos/nhl/svg/TOR_dark.svg"
+                    },
+                    {
+                        "id": 356,
+                        "background": "dark",
+                        "endSeason": 19691970,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19671968-19691970_dark.svg",
+                        "startSeason": 19671968,
+                        "teamId": 10,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/TOR_19671968-19691970_dark.svg"
+                    },
+                    {
+                        "id": 357,
+                        "background": "alt",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_alt.svg",
+                        "startSeason": 20162017,
+                        "teamId": 10,
+                        "url": "http://1.cdn.nhle.com/logos/nhl/svg/TOR_alt.svg"
+                    },
+                    {
+                        "id": 383,
+                        "background": "dark",
+                        "endSeason": 20152016,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19871988-20152016_dark.svg",
+                        "startSeason": 19871988,
+                        "teamId": 10,
+                        "url":
+                            "http://2.cdn.nhle.com/logos/nhl/svg/TOR_19871988-20152016_dark.svg"
+                    },
+                    {
+                        "id": 385,
+                        "background": "alt",
+                        "endSeason": 19861987,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19821983-19861987_alt.svg",
+                        "startSeason": 19821983,
+                        "teamId": 10,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/TOR_19821983-19861987_alt.svg"
+                    },
+                    {
+                        "id": 408,
+                        "background": "light",
+                        "endSeason": 19621963,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/TOR_19381939-19621963_light.svg",
+                        "startSeason": 19381939,
+                        "teamId": 10,
+                        "url":
+                            "http://2.cdn.nhle.com/logos/nhl/svg/TOR_19381939-19621963_light.svg"
+                    }
+                ],
+                "rawTricode": "TOR",
+                "triCode": "TOR"
+            }
+        },
+        {
+            "player": {
+                "id": 8478402,
+                "currentTeamId": 22,
+                "firstName": "Connor",
+                "fullName": "Connor McDavid",
+                "lastName": "McDavid",
+                "positionCode": "C",
+                "sweaterNumber": 97
+            },
+            "points": 100,
+            "team": {
+                "id": 22,
+                "franchiseId": 25,
+                "fullName": "Edmonton Oilers",
+                "leagueId": 133,
+                "logos": [
+                    {
+                        "id": 8,
+                        "background": "light",
+                        "endSeason": 20102011,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_19971998-20102011_light.svg",
+                        "startSeason": 19971998,
+                        "teamId": 22,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/EDM_19971998-20102011_light.svg"
+                    },
+                    {
+                        "id": 82,
+                        "background": "light",
+                        "endSeason": 19961997,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_19961997_light.svg",
+                        "startSeason": 19961997,
+                        "teamId": 22,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/EDM_19961997_light.svg"
+                    },
+                    {
+                        "id": 112,
+                        "background": "light",
+                        "endSeason": 19951996,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_19861987-19951996_light.svg",
+                        "startSeason": 19861987,
+                        "teamId": 22,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/EDM_19861987-19951996_light.svg"
+                    },
+                    {
+                        "id": 131,
+                        "background": "light",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
+                        "startSeason": 20222023,
+                        "teamId": 22,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/EDM_light.svg"
+                    },
+                    {
+                        "id": 140,
+                        "background": "light",
+                        "endSeason": 19851986,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_19791980-19851986_light.svg",
+                        "startSeason": 19791980,
+                        "teamId": 22,
+                        "url":
+                            "http://cdn.nhle.com/logos/nhl/svg/EDM_19791980-19851986_light.svg"
+                    },
+                    {
+                        "id": 147,
+                        "background": "dark",
+                        "endSeason": 19951996,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_19861987-19951996_dark.svg",
+                        "startSeason": 19861987,
+                        "teamId": 22,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/EDM_19861987-19951996_dark.svg"
+                    },
+                    {
+                        "id": 159,
+                        "background": "dark",
+                        "endSeason": 19961997,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_19961997_dark.svg",
+                        "startSeason": 19961997,
+                        "teamId": 22,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/EDM_19961997_dark.svg"
+                    },
+                    {
+                        "id": 241,
+                        "background": "dark",
+                        "endSeason": 20102011,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_19971998-20102011_dark.svg",
+                        "startSeason": 19971998,
+                        "teamId": 22,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/EDM_19971998-20102011_dark.svg"
+                    },
+                    {
+                        "id": 308,
+                        "background": "dark",
+                        "endSeason": 19851986,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_19791980-19851986_dark.svg",
+                        "startSeason": 19791980,
+                        "teamId": 22,
+                        "url":
+                            "http://cdn.nhle.com/logos/nhl/svg/EDM_19791980-19851986_dark.svg"
+                    },
+                    {
+                        "id": 364,
+                        "background": "dark",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_dark.svg",
+                        "startSeason": 20222023,
+                        "teamId": 22,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/EDM_dark.svg"
+                    },
+                    {
+                        "id": 417,
+                        "background": "dark",
+                        "endSeason": 20162017,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_20112012-20162017_dark.svg",
+                        "startSeason": 20112012,
+                        "teamId": 22,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/EDM_20112012-20162017_dark.svg"
+                    },
+                    {
+                        "id": 419,
+                        "background": "light",
+                        "endSeason": 20162017,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_20112012-20162017_light.svg",
+                        "startSeason": 20112012,
+                        "teamId": 22,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/EDM_20112012-20162017_light.svg"
+                    },
+                    {
+                        "id": 591,
+                        "background": "dark",
+                        "endSeason": 20212022,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_20172018-20212022_dark.svg",
+                        "startSeason": 20172018,
+                        "teamId": 22,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/EDM_20172018-20212022_dark.svg"
+                    },
+                    {
+                        "id": 592,
+                        "background": "light",
+                        "endSeason": 20212022,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/EDM_20172018-20212022_light.svg",
+                        "startSeason": 20172018,
+                        "teamId": 22,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/EDM_20172018-20212022_light.svg"
+                    }
+                ],
+                "rawTricode": "EDM",
+                "triCode": "EDM"
+            }
+        },
+        {
+            "player": {
+                "id": 8478398,
+                "currentTeamId": 52,
+                "firstName": "Kyle",
+                "fullName": "Kyle Connor",
+                "lastName": "Connor",
+                "positionCode": "L",
+                "sweaterNumber": 81
+            },
+            "points": 97,
+            "team": {
+                "id": 52,
+                "franchiseId": 35,
+                "fullName": "Winnipeg Jets",
+                "leagueId": 133,
+                "logos": [
+                    {
+                        "id": 295,
+                        "background": "dark",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/WPG_dark.svg",
+                        "startSeason": 20112012,
+                        "teamId": 52,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/WPG_dark.svg"
+                    },
+                    {
+                        "id": 363,
+                        "background": "light",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+                        "startSeason": 20112012,
+                        "teamId": 52,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/WPG_light.svg"
+                    }
+                ],
+                "rawTricode": "WPG",
+                "triCode": "WPG"
+            }
+        },
+        {
+            "player": {
+                "id": 8478403,
+                "currentTeamId": 54,
+                "firstName": "Jack",
+                "fullName": "Jack Eichel",
+                "lastName": "Eichel",
+                "positionCode": "C",
+                "sweaterNumber": 9
+            },
+            "points": 94,
+            "team": {
+                "id": 54,
+                "franchiseId": 38,
+                "fullName": "Vegas Golden Knights",
+                "leagueId": 133,
+                "logos": [
+                    {
+                        "id": 3,
+                        "background": "dark",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/VGK_dark.svg",
+                        "startSeason": 20172018,
+                        "teamId": 54,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/VGK_dark.svg"
+                    },
+                    {
+                        "id": 374,
+                        "background": "light",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
+                        "startSeason": 20172018,
+                        "teamId": 54,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/VGK_light.svg"
+                    }
+                ],
+                "rawTricode": "VGK",
+                "triCode": "VGK"
+            }
+        },
+        {
+            "player": {
+                "id": 8480069,
+                "currentTeamId": 21,
+                "firstName": "Cale",
+                "fullName": "Cale Makar",
+                "lastName": "Makar",
+                "positionCode": "D",
+                "sweaterNumber": 8
+            },
+            "points": 92,
+            "team": {
+                "id": 21,
+                "franchiseId": 27,
+                "fullName": "Colorado Avalanche",
+                "leagueId": 133,
+                "logos": [
+                    {
+                        "id": 148,
+                        "background": "dark",
+                        "endSeason": 19981999,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/COL_19951996-19981999_dark.svg",
+                        "startSeason": 19951996,
+                        "teamId": 21,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/COL_19951996-19981999_dark.svg"
+                    },
+                    {
+                        "id": 153,
+                        "background": "dark",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/COL_dark.svg",
+                        "startSeason": 19992000,
+                        "teamId": 21,
+                        "url":
+                            "http://1.cdn.nhle.com/logos/nhl/svg/COL_dark.svg"
+                    },
+                    {
+                        "id": 155,
+                        "background": "light",
+                        "endSeason": 20242025,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
+                        "startSeason": 19992000,
+                        "teamId": 21,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/COL_light.svg"
+                    },
+                    {
+                        "id": 183,
+                        "background": "light",
+                        "endSeason": 19981999,
+                        "secureUrl":
+                            "https://assets.nhle.com/logos/nhl/svg/COL_19951996-19981999_light.svg",
+                        "startSeason": 19951996,
+                        "teamId": 21,
+                        "url":
+                            "http://3.cdn.nhle.com/logos/nhl/svg/COL_19951996-19981999_light.svg"
+                    }
+                ],
+                "rawTricode": "COL",
+                "triCode": "COL"
+            }
+        },
+        {
+            "player": {
+                "id": 8471675,
+                "currentTeamId": 5,
+                "firstName": "Sidney",
+                "fullName": "Sidney Crosby",
+                "lastName": "Crosby",
+                "positionCode": "C",
+                "sweaterNumber": 87
+            },
+            "points": 91,
+            "team":
+                {
+                    "id": 5,
+                    "franchiseId": 17,
+                    "fullName": "Pittsburgh Penguins",
+                    "leagueId": 133,
+                    "logos": [
+                        {
+                            "id": 21,
+                            "background": "light",
+                            "endSeason": 19671968,
+                            "secureUrl":
+                                "https://assets.nhle.com/logos/nhl/svg/PIT_19671968_light.svg",
+                            "startSeason": 19671968,
+                            "teamId": 5,
+                            "url":
+                                "http://2.cdn.nhle.com/logos/nhl/svg/PIT_19671968_light.svg"
+                        },
+                        {
+                            "id": 86,
+                            "background": "dark",
+                            "endSeason": 19671968,
+                            "secureUrl":
+                                "https://assets.nhle.com/logos/nhl/svg/PIT_19671968_dark.svg",
+                            "startSeason": 19671968,
+                            "teamId": 5,
+                            "url":
+                                "http://2.cdn.nhle.com/logos/nhl/svg/PIT_19671968_dark.svg"
+                        },
+                        {
+                            "id": 116,
+                            "background": "dark",
+                            "endSeason": 19911992,
+                            "secureUrl":
+                                "https://assets.nhle.com/logos/nhl/svg/PIT_19721973-19911992_dark.svg",
+                            "startSeason": 19721973,
+                            "teamId": 5,
+                            "url":
+                                "http://2.cdn.nhle.com/logos/nhl/svg/PIT_19721973-19911992_dark.svg"
+                        },
+                        {
+                            "id": 122,
+                            "background": "light",
+                            "endSeason": 19711972,
+                            "secureUrl":
+                                "https://assets.nhle.com/logos/nhl/svg/PIT_19681969-19711972_light.svg",
+                            "startSeason": 19681969,
+                            "teamId": 5,
+                            "url":
+                                "http://cdn.nhle.com/logos/nhl/svg/PIT_19681969-19711972_light.svg"
+                        },
+                        {
+                            "id": 204,
+                            "background": "dark",
+                            "endSeason": 19711972,
+                            "secureUrl":
+                                "https://assets.nhle.com/logos/nhl/svg/PIT_19681969-19711972_dark.svg",
+                            "startSeason": 19681969,
+                            "teamId": 5,
+                            "url":
+                                "http://cdn.nhle.com/logos/nhl/svg/PIT_19681969-19711972_dark.svg"
+                        },
+                        {
+                            "id": 221,
+                            "background": "light",
+                            "endSeason": 20012002,
+                            "secureUrl":
+                                "https://assets.nhle.com/logos/nhl/svg/PIT_19992000-20012002_light.svg",
+                            "startSeason": 19992000,
+                            "teamId": 5,
+                            "url":
+                                "http://1.cdn.nhle.com/logos/nhl/svg/PIT_19992000-20012002_light.svg"
+                        },
+                        {
+                            "id": 268,
+                            "background": "dark",
+                            "endSeason": 20012002,
+                            "secureUrl":
+                                "https://assets.nhle.com/logos/nhl/svg/PIT_19992000-20012002_dark.svg",
+                            "startSeason": 19992000,
+                            "teamId": 5,
+                            "url":
+                                "http://3.cdn.nhle.com/logos/nhl/svg/PIT_19992000-20012002_dark.svg"
+                        },
+                        {
+                            "id": 292,
+                            "background": "dark",
+                            "endSeason": 20052006,
+                            "secureUrl":
+                                "https://assets.nhle.com/logos/nhl/svg/PIT_20022003-20052006_dark.svg",
+                            "startSeason": 20022003,
+                            "teamId": 5,
+                            "url":
+                                "http://2.cdn.nhle.com/logos/nhl/svg/PIT_20022003-20052006_dark.svg"
+                        },
+                        {
+                            "id": 293,
+                            "background": "light",
+                            "endSeason": 19981999,
+                            "secureUrl":
+                                "https://assets.nhle.com/logos/nhl/svg/PIT_19921993-19981999_light.svg",
+                            "startSeason": 19921993,
+                            "teamId": 5,
+                            "url":
+                                "http://cdn.nhle.com/logos/nhl/svg/PIT_19921993-19981999_light.svg"
+                        },
+                        {
+                            "id": 310,
+                            "background": "dark",
+                            "endSeason": 20152016,
+                            "secureUrl":
+                                "https://assets.nhle.com/logos/nhl/svg/PIT_20062007-20152016_dark.svg",
+                            "startSeason": 20062007,
+                            "teamId": 5,
+                            "url":
+                                "http://cdn.nhle.com/logos/nhl/svg/PIT_20062007-20152016_dark.svg"
+                        },
+                        {
+                            "id": 318,
+                            "background": "dark",
+                            "endSeason": 19981999,
+                            "secureUrl":
+                                "https://assets.nhle.com/logos/nhl/svg/PIT_19921993-19981999_dark.svg",
+                            "startSeason": 19921993,
+                            "teamId": 5,
+                            "url":
+                                "http://cdn.nhle.com/logos/nhl/svg/PIT_19921993-19981999_dark.svg"
+                        },
+                        {
+                            "id": 321,
+                            "background": "light",
+                            "endSeason": 20152016,
+                            "secureUrl":
+                                "https://assets.nhle.com/logos/nhl/svg/PIT_20062007-20152016_light.svg",
+                            "startSeason": 20062007,
+                            "teamId": 5,
+                            "url":
+                                "http://cdn.nhle.com/logos/nhl/svg/PIT_20062007-20152016_light.svg"
+                        },
+                        {
+                            "id": 328,
+                            "background": "dark",
+                            "endSeason": 20242025,
+                            "secureUrl":
+                                "https://assets.nhle.com/logos/nhl/svg/PIT_dark.svg",
+                            "startSeason": 20162017,
+                            "teamId": 5,
+                            "url":
+                                "http://2.cdn.nhle.com/logos/nhl/svg/PIT_dark.svg"
+                        },
+                        {
+                            "id": 338,
+                            "background": "light",
+                            "endSeason": 20052006,
+                            "secureUrl":
+                                "https://assets.nhle.com/logos/nhl/svg/PIT_20022003-20052006_light.svg",
+                            "startSeason": 20022003,
+                            "teamId": 5,
+                            "url":
+                                "http://2.cdn.nhle.com/logos/nhl/svg/PIT_20022003-20052006_light.svg"
+                        },
+                        {
+                            "id": 353,
+                            "background": "light",
+                            "endSeason": 20242025,
+                            "secureUrl":
+                                "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg",
+                            "startSeason": 20162017,
+                            "teamId": 5,
+                            "url":
+                                "http://2.cdn.nhle.com/logos/nhl/svg/PIT_light.svg"
+                        },
+                        {
+                            "id": 379,
+                            "background": "light",
+                            "endSeason": 19911992,
+                            "secureUrl":
+                                "https://assets.nhle.com/logos/nhl/svg/PIT_19721973-19911992_light.svg",
+                            "startSeason": 19721973,
+                            "teamId": 5,
+                            "url":
+                                "http://2.cdn.nhle.com/logos/nhl/svg/PIT_19721973-19911992_light.svg"
+                        }
+                    ],
+                    "rawTricode": "PIT",
+                    "triCode": "PIT"
+                }
+        }
+    ],
+    "total": 10
+}
