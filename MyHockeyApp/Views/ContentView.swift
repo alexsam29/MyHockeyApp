@@ -28,6 +28,13 @@ struct ContentView: View {
                             Text("Year")
                             Text("Select a Year").font(.caption)
                         }.pickerStyle(.automatic)
+                            .onChange(of: selectedYear) { oldValue, newValue in
+                                Task {
+                                    await viewModel.filterTeams(
+                                        selectedYear: newValue
+                                    )
+                                }
+                            }
                         Picker(selection: $selectedTeam) {
                             Text("All Teams").tag(nil as Team?)
                             ForEach(viewModel.teams) { team in
@@ -92,7 +99,7 @@ struct ContentView: View {
                 withLoading {
                     await viewModel.loadSeasons()
                     selectedYear = viewModel.years.last ?? Year(value: 0)
-                    await viewModel.loadTeams()
+                    await viewModel.filterTeams(selectedYear: selectedYear)
                     await viewModel.loadAllStats(
                         year: selectedYear,
                         seasonType: selectedSeason,

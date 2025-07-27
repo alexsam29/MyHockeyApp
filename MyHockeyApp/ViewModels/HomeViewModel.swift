@@ -46,7 +46,7 @@ class HomeViewModel: ObservableObject {
             print("Error fetching point leaders: \(error)")
         }
     }
-    
+
     func loadGoalsLeaders(year: Year, seasonType: Season, team: Team) async {
         do {
             let data = try await HomeViewAPI.shared.fetchSkaterStats(
@@ -60,7 +60,7 @@ class HomeViewModel: ObservableObject {
             print("Error fetching point leaders: \(error)")
         }
     }
-    
+
     func loadAssistLeaders(year: Year, seasonType: Season, team: Team) async {
         do {
             let data = try await HomeViewAPI.shared.fetchSkaterStats(
@@ -74,7 +74,7 @@ class HomeViewModel: ObservableObject {
             print("Error fetching point leaders: \(error)")
         }
     }
-    
+
     func loadAllStats(year: Year, seasonType: Season, team: Team) async {
         await loadPointLeaders(year: year, seasonType: seasonType, team: team)
         await loadGoalsLeaders(year: year, seasonType: seasonType, team: team)
@@ -117,6 +117,15 @@ class HomeViewModel: ObservableObject {
                     displayYear: "\($0/10000) - \($0/10000+1) "
                 )
             }
+        }
+    }
+
+    func filterTeams(selectedYear: Year) async {
+        await loadTeams()
+        self.teams = self.teams.filter { team in
+            return team.firstSeason.id <= selectedYear.value
+                && (team.lastSeason == nil
+                    || team.lastSeason!.id >= selectedYear.value)
         }
     }
 }
